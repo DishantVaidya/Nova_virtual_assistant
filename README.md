@@ -33,14 +33,14 @@ Nova is a **Python-powered virtual voice assistant** that listens to your comman
 ## ⚙️ Installation & Setup
 
 1. Clone this repository
-git clone https://github.com/DishantVaidya/Nova_virtual_assistant.git
+~git clone https://github.com/DishantVaidya/Nova_virtual_assistant.git
 cd Nova_virtual_assistant
 
 2. Install dependencies
-pip install speechrecognition pyttsx3 pyjokes
+~pip install speechrecognition pyttsx3 pyjokes
 
 3. Run the program
-python main.py
+~python main.py
 
 ---
 
