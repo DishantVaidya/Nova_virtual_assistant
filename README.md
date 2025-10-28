@@ -33,8 +33,8 @@ Nova is a **Python-powered virtual voice assistant** that listens to your comman
 ## ⚙️ Installation & Setup
 
 1. Clone this repository
-git clone https://github.com/your-username/voice_assistant_nova.git
-cd voice_assistant_nova
+git clone https://github.com/DishantVaidya/Nova_virtual_assistant.git
+cd Nova_virtual_assistant
 
 2. Install dependencies
 pip install speechrecognition pyttsx3 pyjokes
